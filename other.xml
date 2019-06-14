@@ -1,0 +1,93 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="199-189-204-255,,,199-237-204-255,,,189-237-226-255,,,210-227-199-255,,,177-227-173-255,,,181-227-176-255,,,189-227-181-255,,,174-227-189-255,,,239-136-156-255" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.43962115" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.81580853" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="never&#10;unuse&#10;use&#10;assigned&#10;assign&#10;used" />
+    <property name="InstalledPluginsSearchHistory" value="C&#10;maven" />
+    <property name="JUnit.Splitter.Proportion" value="0.16738895" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="dupli&#10;Compare&#10;Redo&#10;Delete&#10;next" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SettingsSearchHistory" value="validate&#10;background&#10;ignore&#10;maven&#10;key promo" />
+    <property name="SonarLint.analyzeAllFiles.hideWarning" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="generateallsetter&#10;C++&#10;key&#10;key promot&#10;key promoter" />
+    <property name="Vcs.Log.Text.Filter.History" value="5b5b9&#10;be61f2f&#10;08d8ea8" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="E:/Workspace/openpay-biz/service/openpay-service-pay-provider&#10;E:/Workspace/ds_project/ds-biz/api/ds-biz-api/pom.xml&#10;E:/Workspace/ds_project/ds-biz/provider/ds-biz/pom.xml&#10;E:/Workspace/ds_project/ds-biz&#10;E:/BBCWorkSpace&#10;G:/Gavin/POSPWorkspace/dbq_posp&#10;G:/Gavin/POSPWorkspace/posp&#10;E:/Workspace/candy-parent&#10;E:/Workspace/candy-parent/rainbow-candy/ranbow-candy-server/src/main/webapp/WEB-INF/classes&#10;E:/Workspace/my-project/pta&#10;E:/Workspace/unionpay-qr-svn&#10;E:/Workspace/ds-biz&#10;G:/Gavin/BBCWorkSpace&#10;G:/Gavin/BBCWorkSpace/ds-quanzi-platform&#10;G:/Gavin/BBCWorkSpace/ds-quanziapi-platform&#10;G:/Gavin/BBCWorkSpace/ds-quanzi-backend&#10;E:/Workspace/my-project/spring-study&#10;G:/Gavin/WorkSpace/TrunkSpace/ds-biz-provider_trunk&#10;G:/Gavin/WorkSpace/TrunkSpace&#10;E:/Workspace/unionpay-qr&#10;E:/Workspace/bss-merchant-follow/pom.xml&#10;E:/Workspace/my-project/first-ek-service-provider&#10;E:/Workspace/my-project/first-ek-server&#10;E:/Workspace/jf-security-tool&#10;E:/Program/Files/JDKs/jdk1.8.0_92&#10;E:/Program/Files/JDKs/jdk1.7.0_67&#10;E:/Workspace/openpay-posp&#10;E:/Workspace/candy-parent-2016&#10;E:/Workspace/cotton-candy&#10;C:/Program Files/TortoiseSVN/bin/svn.exe" />
+    <property name="file.gist.reindex.count" value="15861" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="find.popup.splitter" value="0.5864116" />
+    <property name="generate_all_setter_count_notify" value="4" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="E:/Workspace/my-project/first-ek-service-provider" />
+    <property name="lastTip" value="35" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="selected.color.option.type" value="DEFAULT_TAG" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.5" />
+    <property name="vcs.log.details.splitter.proportion" value="0.6261398" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.1.19/svn/project/ds_project" />
+        <option value="https://192.168.1.19/svn/project/jfpay/development/code/U/unionpayQRCode" />
+        <option value="https://192.168.1.19/svn/jfpay/internalsystem/candy" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.1.19/svn/project/ds_project" />
+        <option value="https://192.168.1.19/svn/project/jfpay/development/code/U/unionpayQRCode" />
+        <option value="https://192.168.1.19/svn/jfpay/internalsystem/candy" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
