@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt 2" />
   </action>
@@ -38,7 +42,7 @@
   <action id="IntroduceParameter" />
   <action id="NextOccurence" />
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt f1" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
