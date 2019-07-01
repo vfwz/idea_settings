@@ -1,7 +1,13 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" />
     <keyboard-shortcut first-keystroke="meta alt page_up" />
@@ -10,13 +16,26 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
   </action>
+  <action id="GuiDesigner.Duplicate" />
   <action id="Maven.RunBuild">
     <keyboard-shortcut first-keystroke="shift meta alt r" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="alt v" />
@@ -26,4 +45,6 @@
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta alt page_down" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
