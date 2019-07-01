@@ -11,6 +11,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
   </action>
+  <action id="Maven.RunBuild">
+    <keyboard-shortcut first-keystroke="shift meta alt r" />
+  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="alt v" />
