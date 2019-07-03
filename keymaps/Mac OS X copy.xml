@@ -92,6 +92,14 @@
     <keyboard-shortcut first-keystroke="meta alt f1" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="meta comma" />
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="alt v" />
