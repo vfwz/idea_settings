@@ -3,4 +3,14 @@
     <option name="FONT_SIZE" value="14" />
     <option name="LINE_SPACING" value="1.2" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bfixme\b.*lzw.*" />
+    <pattern pattern="\btodo\b.*lzw.*" />
+    <filter name="lzw">
+      <pattern index="3" />
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
