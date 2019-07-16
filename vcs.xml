@@ -38,6 +38,10 @@
           <option name="url" value="git@192.168.1.77:open/dsnotice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.77:zhzf/zhzf-inner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
