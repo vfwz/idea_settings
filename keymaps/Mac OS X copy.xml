@@ -73,6 +73,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift meta alt b" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="Maven.RunBuild">
     <keyboard-shortcut first-keystroke="shift meta alt r" />
