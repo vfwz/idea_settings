@@ -12,6 +12,9 @@
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
 </application>
