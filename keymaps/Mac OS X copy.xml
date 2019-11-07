@@ -113,6 +113,9 @@
     <keyboard-shortcut first-keystroke="alt v" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta alt page_down" />
