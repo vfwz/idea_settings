@@ -81,12 +81,20 @@
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
   <action id="Maven.RunBuild">
     <keyboard-shortcut first-keystroke="shift meta alt r" />
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" />
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="NextOccurence" />
   <action id="QuickChangeScheme">
