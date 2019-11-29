@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="/**" value="/** &#10;* @description TODO&#10;* @author LIUZHENWEI &#10;* @date $date$&#10;*/ " description="方法模板" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
