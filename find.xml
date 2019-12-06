@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../posp-service/posp-service-biz [posp-service-biz]'" />
-    <option name="defaultScopeName" value="Directory '.../posp-service/posp-service-biz [posp-service-biz]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../posp-service/posp-service-biz [posp-service-biz]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
