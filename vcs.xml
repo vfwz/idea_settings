@@ -91,6 +91,7 @@
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>
