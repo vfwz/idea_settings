@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
