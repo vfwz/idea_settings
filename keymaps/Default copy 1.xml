@@ -6,18 +6,17 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl y" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
-  <action id="EditorDuplicate" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="IntroduceVariable" />
   <action id="PreviousOccurence" />
+  <action id="SendEOF" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="alt v" />
@@ -25,4 +24,5 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
