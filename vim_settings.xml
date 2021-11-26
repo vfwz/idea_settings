@@ -1,14 +1,85 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts />
+  <component name="VimEditorSettings">
     <editor>
       <key-repeat enabled="true" />
     </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>o</entry>
+        <entry>set number</entry>
+        <entry>set nonumb</entry>
+        <entry>set nonumber</entry>
+        <entry>q</entry>
+        <entry>ls</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFU=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/Workspace/openpay-posp/posp-common/src/main/java/com/jfpal/posp/common/helper/FieldHelper.java" timestamp="1604047974364">
+        <mark key="'" line="640" column="1" />
+        <mark key="[" line="421" column="40" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="612" column="20" filename="E:/Workspace/openpay-posp/posp-common/src/main/java/com/jfpal/posp/common/helper/FieldHelper.java" />
+      <jump line="9" column="0" filename="E:/Workspace/openpay-posp/posp-common/src/main/java/com/jfpal/posp/common/helper/FieldHelper.java" />
+      <jump line="640" column="1" filename="E:/Workspace/openpay-posp/posp-common/src/main/java/com/jfpal/posp/common/helper/FieldHelper.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name=":" type="4">
+        <text>ls</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>

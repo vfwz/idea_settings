@@ -1,0 +1,10 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/spring-framework" startUpFlag="FIRST" />
+    <entry projectPath="E:/Workspace/AddressApp" startUpFlag="FIRST" />
+    <entry projectPath="E:/Workspace/JavaExplore" startUpFlag="FIRST" />
+    <entry projectPath="E:/Workspace/KDBToolBox" startUpFlag="FIRST" />
+    <entry projectPath="E:/Workspace/openpay-posp" startUpFlag="FIRST" />
+  </component>
+</application>

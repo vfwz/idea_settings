@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Consolas" />
-    <option name="FONT_SIZE" value="14" />
+    <option name="MAX_LOOKUP_WIDTH2" value="879" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
