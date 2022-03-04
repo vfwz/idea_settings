@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
@@ -15,13 +16,21 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
   <action id="IntroduceVariable" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="alt v" />
