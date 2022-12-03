@@ -1,0 +1,42 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
+  <action id="IntroduceVariable" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
