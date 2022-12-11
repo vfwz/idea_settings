@@ -102,9 +102,17 @@
           <option name="url" value="git@github.com:apache/rocketmq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@47.104.251.21:posp/merchant-channel-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@172.31.74.60:posp/merchant-channel-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\liuzhenwei\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\Workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
