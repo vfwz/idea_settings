@@ -1,0 +1,11 @@
+<templateSet group="Mine">
+  <template name="/lcp" value="/**&#10; * &lt;a href=&quot;$END$&quot;&gt;&#10; * 题目链接&#10; * &lt;/a&gt;&#10; */" description="LeetCode Problem Link" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+</templateSet>

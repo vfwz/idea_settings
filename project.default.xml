@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="E:/Workspace/candy-parent-2016" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\liuzhenwei\AppData\Roaming\Subversion</configuration>
+        <option name="sshConnectionType" value="PASSWORD" />
+        <option name="sshUserName" value="liuzhenwei" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
