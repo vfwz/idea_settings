@@ -1,0 +1,10 @@
+<templateSet group="Java">
+  <template name="selby" value="@Override&#10;public $DOTYPE$ selectBy$FIELD$(String $FIELDV$) {&#10;    if (StringUtils.isAnyEmpty($FIELDV$)) {&#10;        throw new IllegalArgumentException(&quot;params is empty while selectBy$FIELD$&quot;);&#10;    }&#10;    $DOTYPE$ selectDO = new $DOTYPE$();&#10;    selectDO.set$FIELD$($FIELDV$);&#10;    return getOne(Wrappers.query(selectDO));&#10;}" description="select table by params" toReformat="false" toShortenFQNames="true">
+    <variable name="DOTYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELDV" expression="decapitalize(FIELD)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

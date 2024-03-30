@@ -1,8 +1,5 @@
 <application>
-  <component name="LafManager">
-    <laf themeId="JetBrainsLightTheme" />
-    <lafs-to-previous-schemes>
-      <laf-to-scheme laf="Darcula" scheme="_@user_Default" />
-    </lafs-to-previous-schemes>
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.laf.win10.WinIntelliJLaf" />
   </component>
 </application>
