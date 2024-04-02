@@ -127,9 +127,12 @@
     <keyboard-shortcut first-keystroke="meta comma" />
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
-    <keyboard-shortcut first-keystroke="alt v" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
