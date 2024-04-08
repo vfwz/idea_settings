@@ -45,6 +45,11 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" />
@@ -69,10 +74,17 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
