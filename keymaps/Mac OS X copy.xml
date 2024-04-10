@@ -59,6 +59,11 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="DatabaseView.Tools" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate">
@@ -105,6 +110,7 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="ProblemsView.QuickFixes" />
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
@@ -123,6 +129,7 @@
     <keyboard-shortcut first-keystroke="meta alt f1" />
   </action>
   <action id="SendEOF" />
+  <action id="SetShortcutAction" />
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="shift meta alt s" />
