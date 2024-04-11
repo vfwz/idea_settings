@@ -89,6 +89,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="IntroduceConstant" />
   <action id="IntroduceParameter" />
