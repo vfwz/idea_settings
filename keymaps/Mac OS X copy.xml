@@ -83,6 +83,11 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
   </action>
