@@ -98,7 +98,9 @@
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
   <action id="IntroduceParameter" />
+  <action id="IntroduceProperty" />
   <action id="Maven.RunBuild">
     <keyboard-shortcut first-keystroke="shift meta alt r" />
   </action>
@@ -111,6 +113,9 @@
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="NextOccurence" />
   <action id="OptimizeImports">
