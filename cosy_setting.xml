@@ -30,6 +30,49 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentComplexQueries">
+      <map>
+        <entry key="WpWorkspace|1988729257818287">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="tag">
+                        <ChatAskTag>
+                          <option name="displayText" value="/optimize" />
+                          <option name="id" value="OPTIMIZE_CODE" />
+                          <option name="text" value="/optimize" />
+                          <option name="type" value="task" />
+                        </ChatAskTag>
+                      </option>
+                      <option name="type" value="tag" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="不要修改类的结构和方法出入参" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineNextTips" value="false" />
     <option name="showInlinePrevTips" value="false" />
