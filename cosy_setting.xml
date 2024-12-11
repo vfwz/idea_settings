@@ -1,5 +1,7 @@
 <application>
   <component name="CosySettings">
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="$USER_HOME$/.lingma" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -60,6 +62,25 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="不要修改类的结构和方法出入参" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+        <entry key="wpgj-pay|1988729257818287">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="java请求http接口时，是否可以重写 x-forwarded-for header" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
