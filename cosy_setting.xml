@@ -266,6 +266,51 @@
             </list>
           </value>
         </entry>
+        <entry key="requirement|206359932759704048">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="现在你使用的是什么模型" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="可以切换模型吗" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="切换到deepseek" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="wpgj-pay|1988729257818287">
           <value>
             <list>
