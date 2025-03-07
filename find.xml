@@ -13,5 +13,6 @@
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
