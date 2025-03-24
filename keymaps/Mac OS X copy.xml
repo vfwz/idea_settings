@@ -125,6 +125,9 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="PrettyJsonAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+  </action>
   <action id="ProblemsView.QuickFixes" />
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
