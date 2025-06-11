@@ -1,7 +1,14 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModeSelected">
+      <map>
+        <entry key="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz" value="agent" />
+      </map>
+    </option>
     <option name="chatModelSelected">
       <map>
+        <entry key="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz-assistant" value="dashscope_qwen_max_latest_backup" />
+        <entry key="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz-chat" value="dashscope_deepseek_chat" />
         <entry key="$USER_HOME$/Daohe/Workspace/merchant-channel-service-chat" value="default" />
         <entry key="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Work/DH/requirement-chat" value="default" />
         <entry key="chat" value="dashscope_deepseek_chat" />
@@ -183,6 +190,954 @@
                 </option>
                 <option name="contextTags">
                   <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+        <entry key="cdb-sniper-biz|206359932759704048|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="写一个针对        CdbAgtDeviceRecordDO 的mybatisplus分页查询，修改mapper和相应的service&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="72" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/controller/device/DeviceController.java#L71-L72" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/controller/device/DeviceController.java#L71-L72" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="71" />
+                      <option name="text" value="DeviceController.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/controller/device/DeviceController.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/controller/device/DeviceController.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="DeviceController.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/CdbAgtDeviceRecordService.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/CdbAgtDeviceRecordService.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/impl/CdbAgtDeviceRecordServiceImpl.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/impl/CdbAgtDeviceRecordServiceImpl.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordServiceImpl.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/mapper/CdbAgtDeviceRecordMapper.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/mapper/CdbAgtDeviceRecordMapper.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordMapper.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/CdbAgtDeviceRecordMapper.xml" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/CdbAgtDeviceRecordMapper.xml" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordMapper.xml" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/entity/CdbAgtDeviceRecordDO.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/entity/CdbAgtDeviceRecordDO.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordDO.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="general" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="eeed9e9b-31c4-47a3-83a8-38c0861d1098" />
+                      <option name="name" value="#codebase" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="text" value="#codebase" />
+                      <option name="type" value="codebase" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/DeviceMapper.xml" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/DeviceMapper.xml" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="DeviceMapper.xml" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/service/device/DeviceBizService.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/service/device/DeviceBizService.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="DeviceBizService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="分页查询需要将表 @TableName(&quot;sharingweb.cdb_agt_device_record&quot;) 通过device_id字段与 t_rentbox表进行关联，并查出t_rentbox表中的site_id字段" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="selectedCode" />
+                          <option name="drillDownEnable" value="false" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="selectedCode" />
+                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#selectedCode" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="endLine" value="21" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="startLine">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/entity/CdbAgtDeviceRecordDO.java#L20-L21" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/entity/CdbAgtDeviceRecordDO.java#L20-L21" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="statLine" value="20" />
+                      <option name="text" value="CdbAgtDeviceRecordDO.java" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/controller/device/DeviceController.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/controller/device/DeviceController.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="DeviceController.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/CdbAgtDeviceRecordService.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/CdbAgtDeviceRecordService.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/impl/CdbAgtDeviceRecordServiceImpl.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/service/impl/CdbAgtDeviceRecordServiceImpl.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordServiceImpl.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/mapper/CdbAgtDeviceRecordMapper.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/mapper/CdbAgtDeviceRecordMapper.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordMapper.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/CdbAgtDeviceRecordMapper.xml" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/CdbAgtDeviceRecordMapper.xml" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordMapper.xml" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/entity/CdbAgtDeviceRecordDO.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/java/com/daoner/cdb/sniper/biz/db/entity/CdbAgtDeviceRecordDO.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="CdbAgtDeviceRecordDO.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="general" />
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="eeed9e9b-31c4-47a3-83a8-38c0861d1098" />
+                      <option name="name" value="#codebase" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="sourceType" value="system" />
+                      <option name="text" value="#codebase" />
+                      <option name="type" value="codebase" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/DeviceMapper.xml" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-database/src/main/resources/mapper/DeviceMapper.xml" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="DeviceMapper.xml" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="sourceType" value="system" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="fileType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="id" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/service/device/DeviceBizService.java" />
+                      <option name="name" value="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz/csb-service/src/main/java/com/daoner/cdb/sniper/biz/service/device/DeviceBizService.java" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="DeviceBizService.java" />
+                      <option name="type" value="file" />
+                    </ChatContextTag>
+                  </list>
                 </option>
               </ChatRecentQuery>
             </list>
