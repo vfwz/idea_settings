@@ -7,7 +7,7 @@
     </option>
     <option name="chatModelSelected">
       <map>
-        <entry key="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz-assistant" value="dashscope_qwen_max_latest_backup" />
+        <entry key="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz-assistant" value="default" />
         <entry key="$USER_HOME$/Daohe/Workspace/cdb-sniper-biz-chat" value="dashscope_deepseek_chat" />
         <entry key="$USER_HOME$/Daohe/Workspace/merchant-channel-service-chat" value="default" />
         <entry key="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Work/DH/requirement-chat" value="default" />
