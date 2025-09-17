@@ -12,8 +12,8 @@
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
