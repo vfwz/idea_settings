@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="show.diff.as.editor.tab" value="false" />
         <entry key="show.line.bookmarks.in.popup" value="false" />
       </map>
     </option>
