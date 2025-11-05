@@ -1,10 +1,9 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="xlsx" type="Native" />
       <mapping ext="aa" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="json" approved="true" type="JSON" />
